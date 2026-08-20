@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pge_rj_divida_ativa-mcp",
+  "title": "Procuradoria Geral do Estado RJ: Dívida Ativa",
+  "description": "Procuradoria Geral do Estado RJ: Dívida Ativa, official-source lookup. Platform-hosted, pay per quer",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pge_rj_divida_ativa-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pge_rj_divida_ativa"
+    }
+  ]
+}
